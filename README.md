@@ -39,13 +39,13 @@ Marvel at the technologies powering our platform:
 Explore the live demo of the app [here](https://company-10k-analyzer.streamlit.app/).
 
 ![Financial Table](demo/first.png)
-*Screenshot: Download Successful and Generating Insights for MSFT from 1995 to 2023.*
+*Screenshot: Download Successful and Generating Insights for WMT from 1995 to 1998.*
 
 ![Financial Table](demo/Screenshot%202024-05-10%20at%202.21.34 AM.png)
-*Screenshot: Download Successful and Generating Insights for MSFT from 1995 to 2023.*
+*Screenshot: Intersting Observations*
 
 ![Financial Table](demo/Screenshot%202024-05-10%20at%202.21.50 AM.png)
-*Screenshot: Download Successful and Generating Insights for MSFT from 1995 to 2023.*
+*Screenshot: Overall Insights and Analysis of WMT.*
 
 
 ## Features
